@@ -8,7 +8,7 @@ VS code
 ## Dependencies
 The following applications are used to build Pylon grab example:
 - [CMake](https://cmake.org/)
-The following libraries are used by Pylon grab example:
+## The following libraries are used by Pylon grab example:
 - [OpenCV](http://opencv.org/)
 - [Pylon](https://docs.baslerweb.com/software-installation-(linux))
 
