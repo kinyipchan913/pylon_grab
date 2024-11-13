@@ -1,5 +1,5 @@
 # pylon_grab
-Example of build and run OpenCV on Windows using CMake build with CMakeLists.txt
+Example of build and run OpenCV with Basler camera & Pylon SDK on Ubuntu using CMake build with CMakeLists.txt
 Tested on Ubuntu 20.04
 OpenCV 4.2.0
 CMake 3.16.3
